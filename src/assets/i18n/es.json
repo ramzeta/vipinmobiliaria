@@ -1,0 +1,115 @@
+{
+
+    "Header.Item1": "Como lo Invertimos",
+    "Header.Item2": "Como lo hacemos",
+    "Header.Item3": "Nuestras inversiones",
+    "Header.Item4": "Vivienda habitual",
+    "Header.cvBtn": "Quienes Somos",
+ 
+
+    "Banner.Pretitle": "¿POR QUE ES TAN INTERESANTE INVERTIR EN INMUEBLES?",
+    "Banner.Description": "TE ASESORAMOS EN TODO, PARA COMPRAR UN INMUEBLE A TU NOMBRE Y GENERAR TODOS LOS MESES INGRESOS DEL ALQUILER ",
+    "Banner.ActionBtn": "TE GARANTIZAMOS RENTABILIDADES MUY SUPERIORES A LA MEDIA DEL MERCADO!!!! ",
+
+    "AboutMe.Title": "COMO INVERTIMOS ",
+    "AboutMe.Paragraphs": [
+        "Cuéntanos tu idea y tu situación, nosotros te explicamos y planificamos la inversión.",
+        "Te explicamos los errores que muchos cometen en la inversión inmobiliaria.",
+        "Buscamos inmuebles que se ajusten a lo determinado",
+        "- Analizamos la rentabilidad, el valor y el riesgo del inmueble.",
+        "Visitamos y negociamos con los propietarios",
+        "- Efectuamos un presupuesto inicial de la reforma antes de la adquisición, para realizar un estudio detallado de la rentabilidad del mismo.",
+        "Realizamos todos los modelos de contratos necesarios y revisamos toda la documentación legal del inmueble. ",
+        "Te ayudamos en todos los trámites administrativos, cambio de suministros, seguros… ",
+        "Gestionamos la reforma en caso de ser necesario, contamos con un equipo de colaboradores con excelentes resultados al mejor precio.",
+        "- Te buscamos al inquilino ideal. "
+    ],
+
+
+    "Experience.Title": "COMO LO HACEMOS",
+    "Experience.Jobs": [
+      {
+        "Tab": "Paso 1 ",
+        "Description": [
+          "Nos explicas tus circunstancias y lo que buscas, nosotros elaboramos un plan en base a tu perfil y que mejor se adapte a ti. Si no tienes idea de por dónde empezar nosotros te lo explicamos, además de asesorarte en la financiación (incluso el 100%)"
+        ]
+      },
+      {
+        "Tab": "Paso 2 ",
+        "Description": [
+          "Te enviaremos inmuebles con las características preseleccionadas, junto con un estudio de rentabilidad, ya que los números no mienten!!! Además, negociamos y te acompañaremos en todo el proceso hasta que elijas la que mejor se adapte a ti."
+        ]
+      },
+      {
+        "Tab": "Paso 3 ",
+        "Description": [
+          "Te ayudamos en todos los trámites de compra, fiscalidad, legalidad, cambios de suministros... todo lo necesario hasta que el inmueble esté a tu nombre."
+        ]
+      },
+      {
+        "Tab": "Paso 4 ",
+        "Description": [
+          "Te asesoramos sobre la reforma (si la necesita), ponemos a tu disposición nuestro equipo de profesionales en la materia al mejor precio, nos encargamos de buscar tu inquilino ideal y todas las gestiones posteriores."
+        ]
+      }
+     
+    ],
+
+    "FeatureProjects.Title": "Nuestras Inversiones",
+    "FeatureProjects.chashflow": "Cashflow: Es el dinero que nos queda limpio en nuestro bolsillo, una vez descontamos el gasto de hipoteca, es decir, además de que el inmueble se paga solo y ya de por sí tiene su propio valor, nos genera un alto beneficio económico mensual.",
+    "FeatureProjects.renta": "La rentabilidad es NETA (dinero limpio), por lo que los gastos de comunidad, IBI y demás gastos que hay que asumir como parte arrendadora ya están descontados.",
+    "FeatureProjects.rentaBruta": "Rentabilidad BRUTA, es el resultado de dividir el dinero que genera el alquiler de un año, por el coste total de la vivienda.",
+    "FeatureProjects.rentabilidadMedia":"La rentabilidad media en el alquiler nacional está entorno al 2%, por ese motivo es tan importante saber ``en que ́ ́ vivienda y ``como ́ ́ invertir, ya que muchas veces se compra un inmueble por impulso o sentimiento, sin un análisis y estudio previo de la viabilidad ``numérica ́ ́ del proyecto.",
+    "FeatureProjects.movimientosBancarios":"Se aportaran datos de contratos y movimientos bancarios referentes a estos casos, además de realizar visitas a estas viviendas y entrevistas con otros inversores a los que hemos ayudado, que servirán como ejemplo y justificación de estos datos expuestos. SIN TRAMPA NI CARTON!!!",
+    "FeatureProjects.Projects": [{
+            "Title": "ALBERIC",
+            "Description": "ALBERIC <br> Precio compra: 31.000€ <br> Reforma/mobiliario: 2.000€ <br> Impuestos y gastos: 5.000€ <br> Total: 38.000€ <br> Alquiler: 450€ <br> Rentabilidad Neta: 12% <br> Bruta: 14%  <br> - 1º con ascensor <br>- 3 habitaciones, 2 baños <br>- Cashflow: 350€",
+            "imgs": [
+                "assets/images/alberic/alberic.png"
+
+            ]
+        },
+        {
+            "Title": "BENIMODO",
+            "Description": "BENIMODO <br> Precio compra: 15.000€ <br> Reforma/mobiliario: 17.000€ <br> Impuestos y gastos: 3.000€ <br> Total: 35.000€ <br> Alquiler: 390€ <br> Rentabilidad Neta: 11%  <br> Bruta: 13.5%  <br> - 3º sin ascenso <br>- 3 habitaciones, 2 baños <br>- Cashflow: 260€",
+            "imgs": [
+                "assets/images/benimodo/benimodo.png"
+            ]
+        },
+        {
+            "Title": "GUADASSUAR",
+            "Description": "GUADASSUAR <br> Precio compra: 33.000€ <br> Reforma/mobiliario: 6.000€  <br> Impuestos y gastos: 5.000€ <br> Total: 44.000€ <br> Alquiler: 400€ <br> Rentabilidad Neta: 9% <br> Bruta: 11%  <br> - 2º sin ascensor <br>- 3 habitaciones, 1 baños <br>- Cashflow: 250€",
+            "imgs": [
+                "assets/images/guadassuar/guadassuar.png"
+            ]
+        },
+        {
+          "Title": "ALBERIC",
+          "Description": "ALBERIC (2) <br> Precio compra: 31.000€ <br> Reforma/mobiliario: 2.000€ <br> Impuestos y gastos: 5.000€ <br> Total: 38.000€ <br> Alquiler: 450€ <br> Rentabilidad Neta: 12% <br> Bruta: 14%  <br> - 1º con ascensor <br>- 3 habitaciones, 2 baños <br>- Cashflow: 350€",
+          "imgs": [
+              "assets/images/alberic/alberic.png"
+          ]
+          
+      },
+      {
+        "Title": "ALZIRA",
+        "Description": "ALZIRA <br> Precio compra: 38.000€  <br> Reforma/mobiliario: 5.000€  <br> Impuestos y gastos: 5.000€ <br> Total: 48.000€ <br> Alquiler: 440€ <br> Rentabilidad Neta: 9% <br> Bruta: 11%  <br> - 1º sin ascensor <br>- 3 habitaciones, 1 baños <br>- Cashflow: 290€",
+        "imgs": [
+            "assets/images/alzira/alzira.png"
+        ]
+    }
+       
+    ],
+
+
+
+    "OtherProjects.Title": "VIVIENDA HABITUAL",
+    "OtherProjects.Description": "Otro de nuestros puntos fuertes, es ayudarte a conseguir tu vivienda habitual con las mejores condiciones. Estamos especializados en la adquisición de viviendas que necesitan una posteriormente, dejándola completamente a tu gusto. Negociamos por ti y conseguimos los mejores precios, no te quedes con lo que pone en el cartel!!!",
+   
+    "Contact.Pretitle": "Y... ¿Ahora?",
+    "Contact.Title": "¡Saludame!",
+    "Contact.Content": "Estaré encantado de recibir tu contacto si quieres conversar acerca de nuevas oportunidades. Escríbeme, y te responderé tan pronto como vea tu mensaje.",
+    "Contact.Btn": "Contactame"
+
+
+}
