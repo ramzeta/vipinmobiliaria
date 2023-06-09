@@ -61,35 +61,35 @@
     "FeatureProjects.rentaBruta": "Rentabilidad BRUTA, es el resultado de dividir el dinero que genera el alquiler de un año, por el coste total de la vivienda.",
     "FeatureProjects.rentabilidadMedia":"La rentabilidad media en el alquiler nacional está entorno al 2%, por ese motivo es tan importante saber ``en que ́ ́ vivienda y ``como ́ ́ invertir, ya que muchas veces se compra un inmueble por impulso o sentimiento, sin un análisis y estudio previo de la viabilidad ``numérica ́ ́ del proyecto.",
     "FeatureProjects.movimientosBancarios":"Se aportaran datos de contratos y movimientos bancarios referentes a estos casos, además de realizar visitas a estas viviendas y entrevistas con otros inversores a los que hemos ayudado, que servirán como ejemplo y justificación de estos datos expuestos. SIN TRAMPA NI CARTON!!!",
-    "FeatureProjects.Projects": [{
-            "Title": "ALBERIC",
-            "Description": "ALBERIC <br> Precio compra: 31.000€ <br> Reforma/mobiliario: 2.000€ <br> Impuestos y gastos: 5.000€ <br> Total: 38.000€ <br> Alquiler: 450€ <br> Rentabilidad Neta: 12% <br> Bruta: 14%  <br> - 1º con ascensor <br>- 3 habitaciones, 2 baños <br>- Cashflow: 350€",
-            "imgs": [
-                "assets/images/alberic/alberic.png"
-
-            ]
-        },
-        {
-            "Title": "BENIMODO",
-            "Description": "BENIMODO <br> Precio compra: 15.000€ <br> Reforma/mobiliario: 17.000€ <br> Impuestos y gastos: 3.000€ <br> Total: 35.000€ <br> Alquiler: 390€ <br> Rentabilidad Neta: 11%  <br> Bruta: 13.5%  <br> - 3º sin ascenso <br>- 3 habitaciones, 2 baños <br>- Cashflow: 260€",
-            "imgs": [
-                "assets/images/benimodo/benimodo.png"
-            ]
-        },
-        {
-            "Title": "GUADASSUAR",
-            "Description": "GUADASSUAR <br> Precio compra: 33.000€ <br> Reforma/mobiliario: 6.000€  <br> Impuestos y gastos: 5.000€ <br> Total: 44.000€ <br> Alquiler: 400€ <br> Rentabilidad Neta: 9% <br> Bruta: 11%  <br> - 2º sin ascensor <br>- 3 habitaciones, 1 baños <br>- Cashflow: 250€",
-            "imgs": [
-                "assets/images/guadassuar/guadassuar.png"
-            ]
-        },
-        {
-          "Title": "ALBERIC",
-          "Description": "ALBERIC (2) <br> Precio compra: 31.000€ <br> Reforma/mobiliario: 2.000€ <br> Impuestos y gastos: 5.000€ <br> Total: 38.000€ <br> Alquiler: 450€ <br> Rentabilidad Neta: 12% <br> Bruta: 14%  <br> - 1º con ascensor <br>- 3 habitaciones, 2 baños <br>- Cashflow: 350€",
-          "imgs": [
-              "assets/images/alberic/alberic.png"
-          ]
-          
+    "FeatureProjects.Projects": [
+      {
+        "Title": "ALBERIC",
+        "Description": "ALBERIC <br> Precio compra: 31.000€ <br> Reforma/mobiliario: 2.000€ <br> Impuestos y gastos: 5.000€ <br> Total: 38.000€ <br> Alquiler: 450€ <br> Rentabilidad Neta: 12% <br> Bruta: 14%  <br> - 1º con ascensor <br>- 3 habitaciones, 2 baños <br>- Cashflow: 350€",
+        "imgs": [
+            "assets/images/alberic/alberic.png"
+        ]
+      },
+      {
+        "Title": "BENIMODO",
+        "Description": "BENIMODO <br> Precio compra: 15.000€ <br> Reforma/mobiliario: 17.000€ <br> Impuestos y gastos: 3.000€ <br> Total: 35.000€ <br> Alquiler: 390€ <br> Rentabilidad Neta: 11%  <br> Bruta: 13.5%  <br> - 3º sin ascenso <br>- 3 habitaciones, 2 baños <br>- Cashflow: 260€",
+        "imgs": [
+            "assets/images/benimodo/benimodo.png"
+        ]
+      },
+      {
+        "Title": "GUADASSUAR",
+        "Description": "GUADASSUAR <br> Precio compra: 33.000€ <br> Reforma/mobiliario: 6.000€  <br> Impuestos y gastos: 5.000€ <br> Total: 44.000€ <br> Alquiler: 400€ <br> Rentabilidad Neta: 9% <br> Bruta: 11%  <br> - 2º sin ascensor <br>- 3 habitaciones, 1 baños <br>- Cashflow: 250€",
+        "imgs": [
+            "assets/images/guadassuar/guadassuar.png"
+        ]
+      },
+      {
+        "Title": "ALBERIC",
+        "Description": "ALBERIC (2) <br> Precio compra: 31.000€ <br> Reforma/mobiliario: 2.000€ <br> Impuestos y gastos: 5.000€ <br> Total: 38.000€ <br> Alquiler: 450€ <br> Rentabilidad Neta: 12% <br> Bruta: 14%  <br> - 1º con ascensor <br>- 3 habitaciones, 2 baños <br>- Cashflow: 350€",
+        "imgs": [
+            "assets/images/alberic/alberic.png"
+        ]
+        
       },
       {
         "Title": "ALZIRA",
@@ -109,7 +109,14 @@
     "Contact.Pretitle": "Y... ¿Ahora?",
     "Contact.Title": "¡Saludame!",
     "Contact.Content": "Estaré encantado de recibir tu contacto si quieres conversar acerca de nuevas oportunidades. Escríbeme, y te responderé tan pronto como vea tu mensaje.",
-    "Contact.Btn": "Contactame"
+    "Contact.Btn": "Contactame",
 
 
+    "Banner.li1":"Es un activo físico de inversión, sólido y seguro",
+    "Banner.li2":"Se revaloriza con el tiempo",
+    "Banner.li3":"Podemos conseguir financiación para pagarlo (incluso el 100%)",
+    "Banner.li4":"Se protege muy bien contra la inflación",
+    "Banner.li5":"Genera unos ingresos constantes y ayuda en la jubilación",
+    "Banner.li6":"Es un ingreso casi ``pasivo ́ ́, que no requiere de nuestro trabajo",
+    "Banner.li7":"El riesgo es casi NULO, ya que todos necesitamos una vivienda"
 }

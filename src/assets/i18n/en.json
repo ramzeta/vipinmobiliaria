@@ -54,7 +54,67 @@
     }
    
   ],
+    "FeatureProjects.Projects": [
+      {
+        "Title": "ALBERIC",
+        "Description": "ALBERIC <br> Purchase price: 31.000€ <br> Reform/furniture: 2.000€ <br> Taxes and expenses: 5.000€ <br> Total: 38.000€ <br> Rental: 450€ <br> Net Profitability: 12% <br> Gross: 14%  <br> - 1º con elevator <br>- 3 rooms, 2 bathrooms <br>- Cashflow: 350€",
+        "imgs": [
+            "assets/images/alberic/alberic.png"
+        ]
+      },
+      {
+        "Title": "BENIMODO",
+        "Description": "BENIMODO <br> Purchase price: 15.000€ <br> Reform/furniture: 17.000€ <br> Taxes and expenses: 3.000€ <br> Total: 35.000€ <br> Rental: 390€ <br> Net Profitability: 11%  <br> Gross: 13.5%  <br> - 3º sin ascenso <br>- 3 rooms, 2 bathrooms <br>- Cashflow: 260€",
+        "imgs": [
+            "assets/images/benimodo/benimodo.png"
+        ]
+      },
+      {
+        "Title": "GUADASSUAR",
+        "Description": "GUADASSUAR <br> Purchase price: 33.000€ <br> Reform/furniture: 6.000€  <br> Taxes and expenses: 5.000€ <br> Total: 44.000€ <br> Rental: 400€ <br> Net Profitability: 9% <br> Gross: 11%  <br> - 2º sin elevator <br>- 3 rooms, 1 bathrooms <br>- Cashflow: 250€",
+        "imgs": [
+            "assets/images/guadassuar/guadassuar.png"
+        ]
+      },
+      {
+        "Title": "ALBERIC",
+        "Description": "ALBERIC (2) <br> Purchase price: 31.000€ <br> Reform/furniture: 2.000€ <br> Taxes and expenses: 5.000€ <br> Total: 38.000€ <br> Rental: 450€ <br> Net Profitability: 12% <br> Gross: 14%  <br> - 1º con elevator <br>- 3 rooms, 2 bathrooms <br>- Cashflow: 350€",
+        "imgs": [
+            "assets/images/alberic/alberic.png"
+        ]
+        
+      },
+      {
+        "Title": "ALZIRA",
+        "Description": "ALZIRA <br> Purchase price: 38.000€  <br> Reform/furniture: 5.000€  <br> Taxes and expenses: 5.000€ <br> Total: 48.000€ <br> Rental: 440€ <br> Net Profitability: 9% <br> Gross: 11%  <br> - 1º sin elevator <br>- 3 rooms, 1 bathrooms <br>- Cashflow: 290€",
+        "imgs": [
+            "assets/images/alzira/alzira.png"
+        ]
+    }
+       
+    ],
+
+  "OtherProjects.Title": "HABITUAL RESIDENCE",
+  "OtherProjects.Description": "Another of our strengths is to help you get your permanent home with the best conditions. We specialize in the acquisition of homes that need a later, leaving it completely to your liking. We negotiate for you and get the best prices, do not stay with what it says on the sign!!!",
+  
+  "Contact.Pretitle": "And.... Now?",
+  "Contact.Title": "Say hello to me!",
+  "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write to me, and I'll get back to you as soon as I see your message.",
+  "Contact.Btn": "Contact me",
 
   "FeatureProjects.Title": "Our Investments",
-  "FeatureProjects.chashflow": "Cashflow: It is the money we have left clean in our pocket, once we have decontaminated the money we have left in our pocket."
+  "FeatureProjects.chashflow": "Cashflow: It is the money we have left clean in our pocket, once we have decontaminated the money we have left in our pocket.",
+  "FeatureProjects.renta": "The profitability is NET (clean money), so the community expenses, IBI and other expenses that must be assumed as the lessor are already discounted.",
+  "FeatureProjects.rentaGross ": "Gross profitability, is the result of dividing the money that generates the rent for a year, by the total cost of the property.",
+  "FeatureProjects.rentabilidadMedia": "The average profitability in the national rent is around 2%, for that reason it is so important to know ``in which ́ ́ ́ housing and ``how ́ ́ ́ to invest, since many times a property is bought by impulse or feeling, without a previous analysis and study of the ``numeric ́ ́ ́ feasibility of the project.",
+  "FeatureProjects.movimientosBancarios": "We will provide data of contracts and bank movements referring to these cases, in addition to making visits to these homes and interviews with other investors that we have helped, which will serve as an example and justification of this data. WITHOUT TRAP OR CARTON!!!",
+
+  "Banner.li1": "It is a solid and safe physical investment asset",
+  "Banner.li2": "It revaluates over time",
+  "Banner.li3": "We can get financing to pay for it (even 100%)",
+  "Banner.li4": "It protects very well against inflation",
+  "Banner.li5": "It generates a steady income and helps in retirement",
+  "Banner.li6": "It is an almost ``passive ́ ́ income, which does not require our work",
+  "Banner.li7": "The risk is almost NULL, since we all need a house"
+  
 }
