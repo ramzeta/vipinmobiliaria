@@ -97,7 +97,21 @@
         "imgs": [
             "assets/images/alzira/alzira.png"
         ]
-    }
+      },
+      {
+        "Title": "ALZIRA",
+        "Description": "ALZIRA <br> Precio compra: 34.000€  <br> Reforma/mobiliario: 6.000€  <br> Impuestos y gastos: 5.000€ <br> Total: 45.000€ <br> Alquiler: 450€ <br> Rentabilidad Neta: 10% <br> Bruta: 12%  <br> - 2º sin ascensor <br>- 3 habitaciones, 1 baños <br>- Cashflow: 300",
+        "imgs": [
+            "assets/images/alzira/alzira2.png"
+        ]
+      },
+      {
+        "Title": "ALZIRA Vivienda habitual",
+        "Description": "ALZIRA <br> Precio compra: 63.000€  <br> Reforma/mobiliario: 5.000€  <br> Impuestos y gastos: 8.000€ <br> Total: 76.000€ <br> Valorada en 94.000€ <br> Valor añadido: 18.000€ <br> - 2º con ascensor <br> - 4 habitaciones, 2 baños <br>- 18.000€ valor añadido",
+        "imgs": [
+            "assets/images/alzira/alzira3.png"
+        ]
+      }
        
     ],
 
