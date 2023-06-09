@@ -18,10 +18,10 @@
 
             h1{
     
-                color: #FFD700;
+                color: #000000;
                 margin: 0 0 20px 3px;
-                font-size: 16px;
-                font-weight: normal;
+                font-size: 26px;
+                font-weight: bold;
                 font-family: $CodeFont;
             }
 
@@ -34,10 +34,10 @@
             }
 
             h2{
-                color: $LightestSlate;
+                color: black;
             }
             h3{  
-                color: $Slate;
+                color:black;
             }
 
             .banner-description{
@@ -57,5 +57,18 @@
     }    
 }
 
+section.section.banner{
+    background-image: url(https://cdn.pixabay.com/photo/2017/09/07/08/54/money-2724241_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
+li{
+    color: black;
+    font-weight: bold;
+}
 
+p{
+    color: black;
+    font-weight: bold;
+}
