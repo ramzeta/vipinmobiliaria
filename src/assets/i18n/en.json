@@ -104,6 +104,13 @@
       "imgs": [
           "assets/images/alzira/alzira3.png"
       ]
+    },
+    {
+      "Title": "ALZIRA",
+      "Description": "ALZIRA <br> Purchase price: 35.000€  <br> Reform/furniture: 2.000€  <br> Taxes and expenses: 5.000€ <br> Total: 42.000€ <br> Rental: 450€ <br> Net Profitability: 11% <br> Gross: 13%  <br> - 2º sin elevator <br>- 3 rooms, 1 bathrooms <br>- Cashflow: 300",
+      "imgs": [
+          "assets/images/alzira/alzira4.png"
+      ]
     }
        
     ],
