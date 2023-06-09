@@ -90,6 +90,20 @@
         "imgs": [
             "assets/images/alzira/alzira.png"
         ]
+    },
+    {
+      "Title": "ALZIRA",
+      "Description": "ALZIRA <br> Purchase price: 34.000€  <br> Reform/furniture: 6.000€  <br> Taxes and expenses: 5.000€ <br> Total: 45.000€ <br> Rental: 450€ <br> Net Profitability: 10% <br> Gross: 12%  <br> - 2º sin elevator <br>- 3 rooms, 1 bathrooms <br>- Cashflow: 300",
+      "imgs": [
+          "assets/images/alzira/alzira2.png"
+      ]
+    },
+    {
+      "Title": "ALZIRA Vivienda habitual",
+      "Description": "ALZIRA <br> Purchase price: 63.000€  <br> Reform/furniture: 5.000€  <br> Taxes and expenses: 8.000€ <br> Total: 76.000€ <br> Valued en 94.000€ <br> Added value: 18.000€ <br> - 2º con elevator <br> - 4 rooms, 2 bañbathroomsos ",
+      "imgs": [
+          "assets/images/alzira/alzira3.png"
+      ]
     }
        
     ],
