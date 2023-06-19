@@ -12,7 +12,7 @@ export class IpserviceService {
 
 
   getIPAddress(){
-    return this.httpClient.get("http://api.ipify.org/?format=json");
+    //return this.httpClient.get("http://api.ipify.org/?format=json");
   }
 
 }
